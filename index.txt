@@ -1,0 +1,5 @@
+-------- PACKAGE 1 --------
+1. Relative Locators
+2. Invoking Multiple Windows / Tabs
+3. Taking Partial Screenshots
+4. Getting Dimensions Of Web Element
